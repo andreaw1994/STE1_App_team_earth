@@ -1,1 +1,10 @@
 streamlit
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+ipywidgets
+IPython
+datetime
+openpyxl
